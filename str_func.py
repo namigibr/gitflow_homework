@@ -2,4 +2,9 @@ def reg_up(text):
     return text.upper()
 
 
-print(reg_up("fgfdghh hdf"))
+def title_text(text):
+
+    '''заглавные первые буквы'''
+
+    return text.title()
+
