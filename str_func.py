@@ -1,5 +1,7 @@
 def reg_up(text):
+    
     '''все буквы вверх'''
+    
     return text.upper()
 
 
