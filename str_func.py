@@ -1,6 +1,11 @@
 def reg_up(text):
-    '''функция по изменению регистра на верхний всех букав'''
+    '''все буквы вверх'''
     return text.upper()
 
 
-print(reg_up("fgfdghh hdf"))
+def title_text(text):
+
+    '''заглавные первые буквы'''
+
+    return text.title()
+
